@@ -1,5 +1,2 @@
-console.log("hello");
+var aaa;
 
-
-dsf;
-afds fsdlkj  fi32234j23l
